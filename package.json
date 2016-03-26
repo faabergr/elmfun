@@ -1,0 +1,26 @@
+{
+  "name": "elmfun",
+  "version": "1.0.0",
+  "description": "Playing around with Elm!",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-elm": "^0.4.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faabergr/elmfun.git"
+  },
+  "author": "Rick Faaberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faabergr/elmfun/issues"
+  },
+  "homepage": "https://github.com/faabergr/elmfun#readme"
+}
